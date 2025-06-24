@@ -17,7 +17,7 @@ redirect_from:
 -->
 
 <p align="justify">
-I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  departiment at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in Natural Language Processing; with a focus on extracting meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless human-machine interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a>, where I worked on improving the visual reasoning abilities of MLLMs using reinforcement learning.
+I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  departiment at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in Natural Language Processing; with a focus on extracting meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless human-machine interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team, where I worked on improving the visual reasoning abilities of MLLMs using reinforcement learning. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
 </p> 
 
 <p align="justify">
@@ -129,6 +129,7 @@ I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">
 -->
 
  <!-- it is crucial to process, relate, and combine information from several modalities. -->
+ 
  <!---
  I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
 
