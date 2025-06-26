@@ -17,7 +17,7 @@ redirect_from:
 -->
 
 <p align="justify">
-I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  department at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in Natural Language Processing; with a focus on extracting meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless human-machine interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a>, where I worked on improving the visual reasoning abilities of MLLMs using reinforcement learning. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
+I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  department at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am passionate about leveraging AI and NLP to advance Social Science and Computational Health. Currently, I am working on information extraction from health texts to derive structured knowledge from unstructured narratives, aiming to improve discourse understanding. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve the visual reasoning abilities of MLLMs using Reinforcement Learning. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
 </p> 
 
 <p align="justify">
@@ -44,8 +44,13 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">9 June,25</span>    Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.
+<span style="color:rgb(201, 76, 76)">15 May,25</span>    Two papers accepted at <a href="https://2025.aclweb.org/">ACL-2025</a> (1 Main, 1 Findings).
+<span style="color:rgb(201, 76, 76)">29 Apr,25</span>    One <a href="https://www.jmir.org/2025/1/e68886/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.jmir.org/">JMIR</a> (Impact Factor: 6.0).
+<span style="color:rgb(201, 76, 76)">10 Mar,25</span>    Started my research internship at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team.
 <span style="color:rgb(201, 76, 76)">12-16 Nov,24</span> Attended <a href="https://2024.emnlp.org/">EMNLP-2024</a> and presented our paper (<a href="https://aclanthology.org/2024.emnlp-main.673"><font color="#cc00ff">DiscourseEE</font></a>).
-<span style="color:rgb(201, 76, 76)">20 Sep,24</span>    Feeling motivated!! One <a href="https://omar-sharif03.github.io/DiscourseEE/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a> main conference.
+<span style="color:rgb(201, 76, 76)">27 Oct,24</span>    Received <b>Gurarini Travel Award</b> to present my research.
+<span style="color:rgb(201, 76, 76)">20 Sep,24</span>    One <a href="https://omar-sharif03.github.io/DiscourseEE/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a>.
 <span style="color:rgb(201, 76, 76)">30 July,24</span>   Our group is in <a href="https://openai.com/form/researcher-access-program/"><font color="#cc00ff">OpenAI Researcher Access Program</font></a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
 <span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
 <span style="color:rgb(201, 76, 76)">13 Apr,24</span>    Received <b>Student Travel Grant from AAAI</b>  as a support to attend and present my paper at <a href="https://www.icwsm.org/2024/index.html/index.html">ICWSM-2024</a>.
@@ -92,7 +97,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 
 ## <font color="#00cc66"> Academic Service </font> 
 Program Committee Member/Reviewer for, 
-  * *Conferences:* ACL-[23, 24], EMNLP-[23, 24], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
+  * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
   * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
 
 ## <font color="#00cc66"> NLP Resources </font>   

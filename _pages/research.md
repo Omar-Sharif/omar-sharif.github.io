@@ -5,11 +5,11 @@ permalink: /research/
 
 ---
 
-My broad research interests are in Natural Language Processing, Human Computer Interaction and Deep Learning. Some of the areas I am working are,
+My broad research interests are in Natural Language Processing, Human-AI Interaction and Deep Learning. Some of the areas I am working are,
  * Large Language Models Inference/Training and Representation Learning [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9"> EMNLP-23 </font>](https://aclanthology.org/2023.findings-emnlp.273/), [<font color="#4796C9">GEM@EMNLP-23 </font>](https://aclanthology.org/2023.gem-1.23/)]
- * Multi-granularity Information Extraction (event and argument extraction, argument augmentation) [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9">arXiv</font>](https://arxiv.org/abs/2403.03304)]
+ * Multi-granularity Information Extraction (event and argument extraction, argument augmentation) [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9">ACL-25</font>](https://arxiv.org/abs/2403.03304)]
  * Multimodal NLP (analyze text, image, speech, and other meta signals to build intelligent systems and evaluate large VLMs) [[<font color="#4796C9"> ACL-24 </font>](https://aclanthology.org/2024.acl-long.454/), [<font color="#4796C9">EACL-24</font>](https://aclanthology.org/2024.eacl-srw.12/)]
- * NLP for Social Good (application focusing on Social Science and Healthcare) [[<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9"> ICWSM-24 </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551), [<font color="#4796C9">Neurocomputing</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567)]
+ * NLP for Social Good (application focusing on Social Science and Healthcare) [[<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9"> ICWSM-24 </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551), [<font color="#4796C9">JMIR</font>](https://www.jmir.org/2025/1/e68886/), [<font color="#4796C9">Neurocomputing</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567)]
 
  
   
@@ -29,13 +29,20 @@ My broad research interests are in Natural Language Processing, Human Computer I
 
 ## <font > Works in Progress </font> 
 
+
+
+<font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
+*<font >Under Review</font>*  
+
 <font color="#993333">Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types</font>     
 *<font >Under Review</font>* 
 
-<font color="#993333">Socially Constructed Treatment Plans: Analyzing Online Peer Interactions to Understand How Patients Navigate Complex Medical Conditions</font>     
-*<font >Under Review</font>*  
-
 ## <font> Conferences </font>
+
+<font color="#993333"> BenNumEval: A Benchmark to Assess LLMs' Numerical Reasoning Capabilities in Bengali</font>
+Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekhar Hossain, Mohammed Moshiul Hoque    
+[<font color="#4796C9"> [ACL-2025 (Findings)] </font>](https://2025.aclweb.org/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/kawsar-pie/BenNumEval/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/kawsar-pie/BenNumEval/tree/main/Dataset)
+
 <font color="#993333">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</font>     
 <b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
 [<font color="#4796C9"> [EMNLP-2024] </font>](https://2024.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.emnlp-main.673/) / [<font color="#4796C9">[Dataset] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Data) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Code) / [<font color="#4796C9"> [Talk] </font>](https://drive.google.com/file/d/1O4HXZPT3FwpnCHTifxEQ7azWXIdk5LWV/view?usp=sharing) / [<font color="#4796C9"> [Slides] </font>](https://docs.google.com/presentation/d/1oxpl9f9mbhHpeAHKWZdh2o4F25s9gyoN/edit?usp=sharing&ouid=115245397498807472226&rtpof=true&sd=true) / [<font color="#4796C9"> [Project Website] </font>](https://omar-sharif03.github.io/DiscourseEE/)
@@ -43,6 +50,7 @@ My broad research interests are in Natural Language Processing, Human Computer I
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
  <b><font color="#2d862d">Omar Sharif</font></b>, Madhusudan Basak, Tanzia Parvin, <b>et al.</b>    
  [<font color="#4796C9"> [AAAI-2024] </font>](https://aaai.org/aaai-conference/call-for-the-special-track-on-ai-for-social-impact/) / [<font color="#4796C9">[Paper] </font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/omar-sharif03/AAAI-2024/tree/main/AAAI-2024-Dataset) / [<font   color="#4796C9"> [Slides] </font>](https://docs.google.com/presentation/d/12h6TTh1bO0eGNymSDCQdIvT1suPgKLUB/edit?usp=sharing&ouid=115245397498807472226&rtpof=true&sd=true)
+
 
  <font color="#993333"> Deciphering Hate: Identifying Hateful Memes and Their Targets</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Sarah Preum  
@@ -122,7 +130,12 @@ My broad research interests are in Natural Language Processing, Human Computer I
 
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-[<font color="#4796C9"> [Neurocomputing (IF: 5.77, HI: 143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
+[<font color="#4796C9"> [Neurocomputing (IF: 6.50, HI:143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
+
+<font color="#993333">Information Needs for Opioid Use Disorder Treatment Using Buprenorphine Product: Qualitative Analysis of Suboxone-Focused Reddit Data</font>                                            
+Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,    
+[<font color="#4796C9"> [JMIR (IF: 6.0]</font>](https://www.jmir.org/) / [<font color="#4796C9">[Paper]</font>](https://www.jmir.org/2025/1/e68886/)
+
   
  <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, et al.     
