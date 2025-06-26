@@ -1,5 +1,5 @@
 ---
-title: "Education/Experience"
+title: "Education"
 excerpt: ""
 author_profile: true
 permalink: /education/
