@@ -5,7 +5,7 @@ author_profile: true
 permalink: /achievements/
 
 ---
-
+ * <b><font color= "#737373" >OpenAI Researcher Access Program</font></b>(2024): $5,000 API credit to assess OpenAI models on human-centric NLP tasks.
  * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
  * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
 
@@ -37,13 +37,24 @@ Solved 1000+ competitive programming problems in different online platforms as p
 
 ## <font color="#00cc66"> Honors and Awards</font>
 <ul>
+  <li> <b><font color= "#737373" > Outstanding TA Award</font></b> (2025): Outstanding contribution for teaching in the CS Department at Dartmouth</li>
+  
   <li> <b><font color= "#737373" > Presidential Graduate Fellow</font></b> (2022): Awarded to only two incoming graduate student in Dartmouth</li>
-  <li> <b><font color= "#737373" > Student Travel Grant (AAAI) </font></b> (2024): To present my paper at ICWSM-2024</li>
-  <li> <b><font color= "#737373" > Best Research Publication</font></b> (2022): At research fair organized by CUET</li>
+    
+  <li> <b><font color= "#737373" >Best Paper Award</font></b> (2021): CONSTRAINT  workshop collocated with AAAI-2021</li>
+
+  <li> <b><font color= "#737373" > Best Research Publication Award</font></b> (2022): Best research paper in the ECE department at CUET in 2022</li>
+
+  <li> <b><font color= "#737373" > AAAI Travel Grant </font></b> (2024): To present my paper at ICWSM-2024</li>
+
+   <li> <b><font color= "#737373" > Guarini Travel Award </font></b> (2024): To present paper at EMNLP-24</li>
+
   <li> <b><font color= "#737373" >CUET Ex-students merit award</font></b> (2015, 2016, 2017): For obtaining highest GPA in an academic year</li>
+
   <li> <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional</li>
-  <li> <b><font color= "#737373" >Best paper award</font></b>: CONSTRAINT collocated with AAAI-2021</li>
+
   <li> <b><font color= "#737373" >Winner</font></b>: Hope speech detection shared task, EACL-2021</li>
+
   <li> <b><font color= "#737373" >D&I Award</font></b> (EACL-21, EMNLP-21, ACL-22): To attend and present our papers</li>
   <li> <b><font color= "#737373" >2<sup>nd</sup> runner-up</font></b>: Multimodal meme detection and offenisve language classification shared task, EACL-2021</li>
   <li> <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017</li>
