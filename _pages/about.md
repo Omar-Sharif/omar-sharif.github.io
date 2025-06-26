@@ -26,7 +26,7 @@ Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from
 
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
-<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1drGFkiNotRJ2HtOXvcKjBdcD5biTmiNt/view?usp=sharing"><font color="#990033">Resume</font></a>]
+<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1Sg6TjiDu-qrcqMvCFFcC6UhFLgJCzMOo/view?usp=sharing"><font color="#990033">Resume</font></a>]
 
 
 <!---
