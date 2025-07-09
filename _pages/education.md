@@ -31,7 +31,7 @@ Position: <b>1<sup>st</sup>/48</b>
 
 
 ## <font color="#00cc66"> Work Experience </font>
- **Research Intern <font color="#541A75">[Mar 2025 - June 2025</font>**   
+ **Research Intern <font color="#541A75">[Mar 2025 - June 2025]</font>**   
  *Amazon, NYC*
 
  **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
