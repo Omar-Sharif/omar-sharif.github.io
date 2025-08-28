@@ -44,6 +44,9 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
+<span style="color:rgb(201, 76, 76)">20 Aug,25</span>    Our <a href="https://arxiv.org/pdf/2502.16838"><font color="#cc00ff">REGen paper</font></a> accepted at <a href="https://2025.emnlp.org/">EMNLP-2025</a> (findings).
+<span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam.
+<span style="color:rgb(201, 76, 76)">5 Aug,25</span>     Accepted <a href="https://web.cs.dartmouth.edu/">AAAI-26</a> program committee invitation.
 <span style="color:rgb(201, 76, 76)">9 June,25</span>    Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.
 <span style="color:rgb(201, 76, 76)">15 May,25</span>    Two papers accepted at <a href="https://2025.aclweb.org/">ACL-2025</a> (1 Main, 1 Findings).
 <span style="color:rgb(201, 76, 76)">29 Apr,25</span>    One <a href="https://www.jmir.org/2025/1/e68886/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.jmir.org/">JMIR</a> (Impact Factor: 6.0).
