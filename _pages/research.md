@@ -29,10 +29,14 @@ My broad research interests are in Natural Language Processing, Human-AI Interac
 
 ## <font > Works in Progress </font> 
 <font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
-*<font >Under Review</font>*  
+*<font > Accepted </font>*  
 
 
 ## <font> Conferences </font>
+
+<font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
+<b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
+[<font color="#4796C9"> [EMNLP-2025 Findings] </font>](https://2025.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2502.16838) / [<font color="#4796C9"> [Code] </font>](https://github.com/Omar-Sharif/REGen) 
 
 <font color="#993333"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</font>
 Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, Sarah Preum   
