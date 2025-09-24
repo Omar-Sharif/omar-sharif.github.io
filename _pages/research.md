@@ -34,10 +34,12 @@ My broad research interests are in Natural Language Processing, Human-AI Interac
 <font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
 *<font >Under Review</font>*  
 
-<font color="#993333">Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types</font>     
-*<font >Under Review</font>* 
 
 ## <font> Conferences </font>
+
+<font color="#993333"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</font>
+Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, Sarah Preum   
+[<font color="#4796C9"> [ACL-2025] </font>](https://2025.aclweb.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2025.acl-long.1221/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/JosephGatto/DocEAE-Data-Aug) / [<font color="#4796C9"> [Slides] </font>](files/ACL%2025%20-%20DocEAE%20Presentation.pdf) / [<font color="#4796C9"> [Poster] </font>](files/ACL%2025%20-%20DocEAE%20Presentation.pdf)
 
 <font color="#993333"> BenNumEval: A Benchmark to Assess LLMs' Numerical Reasoning Capabilities in Bengali</font>
 Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekhar Hossain, Mohammed Moshiul Hoque    
