@@ -47,7 +47,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>,  <b>et 
 [<font color="#4796C9"> [ACL-2025 (Findings)] </font>](https://2025.aclweb.org/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/kawsar-pie/BenNumEval/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/kawsar-pie/BenNumEval/tree/main/Dataset)
 
 <font color="#993333">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</font>     
-<b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
+<b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, <b>et al.</b> 
 [<font color="#4796C9"> [EMNLP-2024] </font>](https://2024.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.emnlp-main.673/) / [<font color="#4796C9">[Dataset] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Data) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Code) / [<font color="#4796C9"> [Talk] </font>](https://drive.google.com/file/d/1O4HXZPT3FwpnCHTifxEQ7azWXIdk5LWV/view?usp=sharing) / [<font color="#4796C9"> [Slides] </font>](https://docs.google.com/presentation/d/1oxpl9f9mbhHpeAHKWZdh2o4F25s9gyoN/edit?usp=sharing&ouid=115245397498807472226&rtpof=true&sd=true) / [<font color="#4796C9"> [Project Website] </font>](https://omar-sharif03.github.io/DiscourseEE/)
  
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
@@ -56,11 +56,11 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>,  <b>et 
 
 
  <font color="#993333"> Deciphering Hate: Identifying Hateful Memes and Their Targets</font>  
-  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Sarah Preum  
+  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, <b>et al.</b>  
   [<font color="#4796C9"> [ACL-2024] </font>](https://2024.aclweb.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.acl-long.454/)/[<font color="#4796C9"> [Dataset & Code] </font>](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes/tree/main/Deciphering-Hate%40ACL)
 
  <font color="#993333"> Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection </font>  
-  Eftekhar Hossain*, <b><font color="#2d862d">Omar Sharif*</font></b>, Mohammed Moshiul Hoque, Sarah Preum  
+  Eftekhar Hossain*, <b><font color="#2d862d">Omar Sharif*</font></b>, Mohammed Moshiul Hoque, <b>et al.</b>   
   [<font color="#4796C9"> [EACL-SRW-2024] </font>](https://2024.eacl.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.eacl-srw.12/)/[<font color="#4796C9"> [Dataset & Code] </font>](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes)
 
  <font color="#993333"> Chain-of-Thought Embeddings for Stance Detection on Social Media</font>  
@@ -68,20 +68,18 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>,  <b>et 
   [<font color="#4796C9"> [EMNLP-2023 Findings] </font>](https://2023.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.findings-emnlp.273/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/JosephGatto/Chain-of-Thought-Embeddings) 
 
  <font color="#993333"> Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity</font>  
-  Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, Philip Bohlman, Sarah Preum   
+  Joseph Gatto, <b><font color="#2d862d">Omar Sharif</font></b>, Parker Seegmiller, <b>et al.</b>    
  [<font color="#4796C9"> [GEM@EMNLP-2023] </font>](https://gem-benchmark.com/workshop) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2023.gem-1.23/) / [<font color="#4796C9"> [Dataset] </font>](https://github.com/Persist-Lab/Domain-Specific-STS) / [<font color="#4796C9"> [Slides] </font>](https://docs.google.com/presentation/d/1JXpJlq2MR5pKvU4fTLepNDghMARk8XV0/edit?usp=sharing&ouid=115245397498807472226&rtpof=true&sd=true)
   
  <font color="#993333"> Theme-driven Keyphrase Extraction to Analyze Social Media Discourse</font>  
-  William Romano*, <b><font color="#2d862d">Omar Sharif*</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
+  <b><font color="#2d862d">Omar Sharif*</font></b>, William Romano*, Madhusudan Basak, <b>et al.</b>   
   [<font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2024/index.html/index.html) / [<font color="#4796C9">[Paper] </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551)
 
-<!--
 
-<font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
+  <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) / [<font color="#4796C9">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
 
--->
 
   <font color="#993333"> MUTE: A Multimodal Dataset for Detecting Hateful Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
@@ -92,7 +90,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>,  <b>et 
   [<font color="	#4796C9"> [CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.constraint-1.9/)
  
   <font color="#993333"> Emotion Classification in a Resource Constrained Language Using Transformer-based Approach </font>  
-  Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
+  Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, <b>et al.</b>  
   [<font color="#4796C9"> [NAACL-SRW 2021] </font>](https://naacl2021-srw.github.io/) / [<font color="#4796C9">[Paper]</font>](https://aclanthology.org/2021.naacl-srw.19/) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)
   
   <font color="#993333"> Align and Conquer: An Ensemble Approach to Classify Aggressive Texts from Social Media </font>    
@@ -136,23 +134,24 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>,  <b>et 
 [<font color="#4796C9"> [Neurocomputing (IF: 6.50, HI:143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
 
 <font color="#993333">Information Needs for Opioid Use Disorder Treatment Using Buprenorphine Product: Qualitative Analysis of Suboxone-Focused Reddit Data</font>                                            
-Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,    
+Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, <b>et al.</b>    
 [<font color="#4796C9"> [JMIR (IF: 6.0]</font>](https://www.jmir.org/) / [<font color="#4796C9">[Paper]</font>](https://www.jmir.org/2025/1/e68886/)
 
   
  <font color="#993333">Identification of Multilingual Offense and Troll from Social Media Memes using Weighted Ensemble of Multimodal Features </font>   
- Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, et al.     
+ Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font> </b>, Mohammed Moshiul Hoque, <b>et al.</b>     
  [<font color=" #4796C9"> [JKSUCIS (IF: 8.83)] </font>](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) / [<font color="#4796C9">[Paper] </font>](https://www.sciencedirect.com/science/article/pii/S1319157822002166) 
   
  <font color="#993333">Detecting Suspicious Texts Using Machine Learning Techniques  </font>     
-  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, A. S. M. Kayes, Raza Nowrozy, Iqbal H. Sarker    
+  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, A. S. M. Kayes, <b>et al.</b>     
   [<font color="#4796C9"> [Journal of Applied Sciences (IF: 2.67)] </font>](https://www.mdpi.com/journal/applsci) / [<font color="#4796C9">[Paper] </font>](https://www.mdpi.com/2076-3417/10/18/6527)
 
-<!--
+
   <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
    Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
    [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
    
+<!-- 
   <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
    MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
    [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
