@@ -47,7 +47,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>,  <b>et 
 [<font color="#4796C9"> [ACL-2025 (Findings)] </font>](https://2025.aclweb.org/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/kawsar-pie/BenNumEval/tree/main/Codes) / [<font   color="#4796C9"> [Dataset] </font>](https://github.com/kawsar-pie/BenNumEval/tree/main/Dataset)
 
 <font color="#993333">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</font>     
-<b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, <b>et al.</b> 
+<b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, <b>et al.</b> <br>
 [<font color="#4796C9"> [EMNLP-2024] </font>](https://2024.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2024.emnlp-main.673/) / [<font color="#4796C9">[Dataset] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Data) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/DiscourseEE/tree/main/Code) / [<font color="#4796C9"> [Talk] </font>](https://drive.google.com/file/d/1O4HXZPT3FwpnCHTifxEQ7azWXIdk5LWV/view?usp=sharing) / [<font color="#4796C9"> [Slides] </font>](https://docs.google.com/presentation/d/1oxpl9f9mbhHpeAHKWZdh2o4F25s9gyoN/edit?usp=sharing&ouid=115245397498807472226&rtpof=true&sd=true) / [<font color="#4796C9"> [Project Website] </font>](https://omar-sharif03.github.io/DiscourseEE/)
  
  <font color="#993333"> Characterizing Information Seeking Events in Health-Related Social Discourse</font>  
@@ -150,7 +150,7 @@ Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, <b>et al.</b>
   <font color="#993333">Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network</font>  
    Tanzaia Parvin, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
    [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-021-00913-0)
-   
+
 <!-- 
   <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
    MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
