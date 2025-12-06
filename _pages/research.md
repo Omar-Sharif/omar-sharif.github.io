@@ -29,7 +29,7 @@ My broad research interests are in Natural Language Processing, Human-AI Interac
 
 ## <font > Works in Progress </font> 
 <font color="#993333">From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning</font>     
-<!-- *<font > Accepted </font>*   -->
+*<font > Work in progress </font>*  
 
 
 ## <font> Conferences </font>
