@@ -17,7 +17,7 @@ redirect_from:
 -->
 
 <p align="justify">
-I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  department at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am passionate about leveraging AI and NLP to advance Social Science and Computational Health. Currently, I am working on information extraction from texts to derive structured knowledge from unstructured narratives, aiming to improve discourse understanding. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve the visual reasoning abilities of MLLMs using Reinforcement Learning. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
+I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Depart of Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>, advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>. I am fortunate to be part of the <a href="https://www.sahaslab.com/">SHAHAS</a> Lab and to closely collaborate with Prof. <a href="https://www.cs.dartmouth.edu/~soroush/">Souroush Vosoughi</a>. My research focuses on leveraging AI and NLP to advance social good and computational health.Currently, I work on information extraction, building structured representations from unstructured data. These representations serve as intermediate scaffolds that improve retrieval, reasoning, and and reliable decision-making in high-stakes domains. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
 </p> 
 
 <!-- <p align="justify">
@@ -26,7 +26,7 @@ Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from
 
 <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
-<b>My latest: </b> [<a href="https://drive.google.com/file/d/1Sg6TjiDu-qrcqMvCFFcC6UhFLgJCzMOo/view?usp=sharing"><font color="#990033">Resume</font></a>]
+<b>My latest: </b> [<a href="{{ base_path }}/cv/"><font color="#990033">Resume</font></a>]
 
 
 <!---
