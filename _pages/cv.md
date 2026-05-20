@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
   <a href="{{ base_path }}/files/Omar-Sharif-Resume.pdf" target="_blank" rel="noopener">
     <b>Open CV in a new tab</b>
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;||&nbsp;
   <a href="{{ base_path }}/files/Omar-Sharif-Resume.pdf" download>
     <b>Download PDF</b>
   </a>
