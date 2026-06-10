@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
+<!-- <p>
   <a href="{{ base_path }}/files/Omar-Sharif-Resume.pdf" target="_blank" rel="noopener">
     <b>Open CV in a new tab</b>
   </a>
@@ -19,7 +19,7 @@ redirect_from:
   <a href="{{ base_path }}/files/Omar-Sharif-Resume.pdf" download>
     <b>Download PDF</b>
   </a>
-</p>
+</p> -->
 
 <object data="{{ base_path }}/files/Omar-Sharif-Resume.pdf#view=FitH&toolbar=1"
         type="application/pdf"
