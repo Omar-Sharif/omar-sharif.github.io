@@ -17,7 +17,7 @@ redirect_from:
 -->
 
 <p align="justify">
-I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Depart of Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>, advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>. I also collaborate frequently with Prof. <a href="https://www.cs.dartmouth.edu/~soroush/">Souroush Vosoughi</a>. My research focuses on leveraging AI and NLP to advance social good and computational health. 
+I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Depart of Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>, advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>. I also frequently collaborate  with Prof. <a href="https://www.cs.dartmouth.edu/~soroush/">Souroush Vosoughi</a>. My research focuses on leveraging AI and NLP to advance social good and computational health. 
 
 Currently, I work on information extraction, building structured representations from unstructured data. These representations serve as intermediate scaffolds that improve retrieval, reasoning, and and  decision-making in high-stakes domains. I am also enthusiastic about Multimodal NLP, particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
 </p> 
