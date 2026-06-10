@@ -28,9 +28,11 @@ My broad research interests are in Natural Language Processing, Human-AI Interac
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 
 ## <font > Works in Progress </font> 
-<font color="#993333">From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning</font>     
+<font color="#993333">Disentangling Perception and Reasoning in Multimodal LLMs via Reward Design</font>     
 *<font > Under review </font>*  
 
+<font color="#993333">Improving Information Extraction with Learned Queries</font>     
+*<font > Under review </font>*  
 
 ## <font> Conferences </font>
 
