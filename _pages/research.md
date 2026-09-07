@@ -18,12 +18,12 @@ My broad research interests are in Natural Language Processing, Human-AI Interac
  * Health Informatics, Social Computing [Objectionable (aggressive, abusive, fake, hate) content classification]
  * Multimodal NLP [utilize (linguistic, acoustic, visual) features to build intelligent systems)]
 
-  ## <font color="#00cc66"> Research Statement </font>  
+  ## <font color="#02225F"> Research Statement </font>  
     Will write my research statement here.
   *<font color="#ff6633">Omar Sharif</font>*
 -->
 
-# <font color="#00cc66"> Publications </font> 
+# <font color="#02225F"> Publications </font> 
 
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 

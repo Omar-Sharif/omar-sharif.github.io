@@ -12,7 +12,7 @@ My hand notes while I completed the <a href="https://www.coursera.org/specializa
  * Convolutional Neural Networks <a href="https://drive.google.com/file/d/1bCqlppOAW270Q4ZEv3lI6uw0-Zs1BI23/view?usp=sharing">Note</a>.
  * Sequence Models <a href="https://drive.google.com/file/d/14o0ptgBZw8sdzFXg35NqEL5Ar8KrN3_L/view?usp=sharing">Note</a>.
 
-## <font color="#00cc66"> NLP Papers </font>
+## <font color="#02225F"> NLP Papers </font>
 A subset of papers that I found useful in clarifying my understanding of various NLP topics. 
 <pre>
 * <span style="color:rgb(201, 76, 76)"><a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></span> 
@@ -28,7 +28,7 @@ A subset of papers that I found useful in clarifying my understanding of various
 * <span style="color:rgb(201, 76, 76)"><a href="https://arxiv.org/abs/1910.10683">T5 (an awesome paper)</a></span>
 </pre>
 
-## <font color="#00cc66"> Useful Links </font>
+## <font color="#02225F"> Useful Links </font>
 Few blog posts/links that I found really useful to understand various fundamental concepts of NLP.
 <pre>
 * <span style="color:rgb(201, 76, 76)">Andrej Karpathy's coding-based backpropagation post</span> <a href="http://karpathy.github.io/neuralnets/">[Link]</a>
@@ -45,7 +45,7 @@ Few blog posts/links that I found really useful to understand various fundamenta
 * <span style="color:rgb(201, 76, 76)">Various BERT Pre-Training Methods</span> <a href="https://medium.com/analytics-vidhya/an-overview-of-the-various-bert-pre-training-methods-c365512342d8">[Link]</a>
 </pre>
 
-## <font color="#00cc66"> Quotes </font>   
+## <font color="#02225F"> Quotes </font>   
 
 Whenever I feel depressed or exhausted, I try to utter few quotes in my mind from here. These points are taken from different books I have read over time.
 

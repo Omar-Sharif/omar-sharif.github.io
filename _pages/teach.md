@@ -23,7 +23,7 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 
 
 
-## <font color="#00cc66"> Invited Training/Workshops </font>  
+## <font color="#02225F"> Invited Training/Workshops </font>  
 **Training on AI and Machine Learning with Python**  <br/>
 Organized by: Sheikh Kamal IT Business Incubator, CUET. <br/>
 [🔗 [Resources]](https://github.com/eftekhar-hossain/SKBI_Training) *[June-2022]*
@@ -55,7 +55,7 @@ Organized by: CUET Competitive Programming Club.  <br/>
 
 
 <!---
-## <font color="#00cc66"> FAQs </font>  
+## <font color="#02225F"> FAQs </font>  
 List of some questions that my students frequently ask me. If you have any other questions email or meet me in person. 
 
 **1. I am interested in ML/NLP research, from where I should start?**   

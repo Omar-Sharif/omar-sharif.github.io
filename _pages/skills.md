@@ -13,7 +13,7 @@ permalink: /skills/
 <span style="color:rgb(201, 76, 76)">Frameworks & Tools</span>     Flask, Django, Jupyter, Beautiful Soup, Git, Latex   
 </pre>
 
-## <font color="#00cc66"> Competitive Programming </font>
+## <font color="#02225F"> Competitive Programming </font>
 
 Solved 1000+ competitive programming problems in different online platforms as part of my preparation for proramming contests (ICPC, NCPC, etc). [*<font color="#ff6633"> Sloved Problems (GitHub)</font>*](https://github.com/omar-sharif03/Competitive-Programming)
 <!-- 
@@ -31,7 +31,7 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 50+ problems
 </pre>
 
-## <font color="#00cc66"> Leadership </font>
+## <font color="#02225F"> Leadership </font>
 
 **CUET NLP Lab**   
 <b><font color= "#737373" >Mentor</font></b>  [Aug 2019 - Aug 2022] 

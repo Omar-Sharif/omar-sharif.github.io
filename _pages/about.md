@@ -43,7 +43,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <font size="2">🟣</font> 
 -->
 
-## <font color="#00cc66"> Updates </font>
+## <font color="#02225F"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
 <span style="color:rgb(201, 76, 76)">1 Jan,26</span>     Check our new <a href="https://arxiv.org/abs/2601.00215"><font color="#cc00ff">paper</font></a> on visual reasoning.
@@ -102,12 +102,12 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 </pre>
 </div>
 
-## <font color="#00cc66"> Academic Service </font> 
+## <font color="#02225F"> Academic Service </font> 
 Program Committee Member/Reviewer for, 
   * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
   * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
 
-## <font color="#00cc66"> NLP Resources </font>   
+## <font color="#02225F"> NLP Resources </font>   
 List of few books, courses and blog posts that I find really helpfull.
 
 * **Advices**

@@ -30,23 +30,23 @@ Position: <b>1<sup>st</sup>/48</b>
 -->
 
 
-## <font color="#00cc66"> Work Experience </font>
- **Research Intern <font color="#541A75">[Mar 2025 - June 2025]</font>**   
+## <font color="#02225F"> Work Experience </font>
+ **Research Intern <font color="#02225F">[Mar 2025 - June 2025]</font>**   
  *Amazon, NYC*
 
- **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
+ **Graduate Research/Teaching Assistant <font color="#02225F">[Sep 2022 - Ongoing]</font>**   
  *Departmet of Computer Science, Dartmouth College*
 
- **Assistant Professor (on leave) <font color="#541A75">[July 2022 - Aug 2022]</font>**   
+ **Assistant Professor (on leave) <font color="#02225F">[July 2022 - Aug 2022]</font>**   
  *Departmet of Computer Science and Engineering, CUET*
  
- **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
+ **Lecturer <font color="#02225F">[July 2019 - June 2022]</font>**   
  *Department of Computer Science and Engineering, CUET*
 
- **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
+ **Research Assistant <font color="#02225F">[Dec 2018 - June 2019]</font>**    
  *CUET NLP Lab*
 
-## <font color="#00cc66"> Certifications </font>
+## <font color="#02225F"> Certifications </font>
 
 **Deep Learning Specialization**   
 [*<font color="#ff6633">[Deep Learning]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/ELLF6SH732TL) [*<font color="#ff6633">[DL Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/deep-learning)

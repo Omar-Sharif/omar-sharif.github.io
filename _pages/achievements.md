@@ -9,7 +9,7 @@ permalink: /achievements/
  * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
  * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
 
-## <font color="#00cc66"> Technical Skills </font>
+## <font color="#02225F"> Technical Skills </font>
 
 <pre>
 <span style="color:rgb(201, 76, 76)">Proficient</span>             C, C++, Python, Matlab, Octave 
@@ -18,7 +18,7 @@ permalink: /achievements/
 <span style="color:rgb(201, 76, 76)">Frameworks & Tools</span>     Flask, Django, Jupyter, Beautiful Soup, Git, Latex   
 </pre>
 
-## <font color="#00cc66"> Competitive Programming </font>
+## <font color="#02225F"> Competitive Programming </font>
 
 Solved 1000+ competitive programming problems in different online platforms as part of my preparation for proramming contests (ICPC, NCPC, etc). [*<font color="#ff6633"> Sloved Problems (GitHub)</font>*](https://github.com/omar-sharif03/Competitive-Programming)
 <!-- 
@@ -35,7 +35,7 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 50+ problems
 </pre>
 
-## <font color="#00cc66"> Honors and Awards</font>
+## <font color="#02225F"> Honors and Awards</font>
 <ul>
   <li> <b><font color= "#737373" > Outstanding TA Award</font></b> (2025): Outstanding contribution for teaching in the CS Department at Dartmouth</li>
   
@@ -67,7 +67,7 @@ Solved 1000+ competitive programming problems in different online platforms as p
 </ul>
 
 
-## <font color="#00cc66"> Leadership </font>
+## <font color="#02225F"> Leadership </font>
 
 **CUET NLP Lab**   
 <b><font color= "#737373" >Mentor</font></b>  [Aug 2019 - Aug 2022] 
@@ -87,7 +87,7 @@ Solved 1000+ competitive programming problems in different online platforms as p
   * Lead a team of 30+ active members. Plan and assess the growth of the chapter.
   * Arrange research seminars, talks and workshops on different trending topics. 
 
-## <font color="#00cc66"> Co-curricular</font>
+## <font color="#02225F"> Co-curricular</font>
    * Organized [*<font color="#ff6633"> Real-Info workshop</font>*](https://sites.google.com/view/real-info-2024) at ICWSM-2024.
    * Organized CUET CSE Fest 2017, 2018, 2019.
    * Organized CUET National Collegiate Programming Contest 2017.

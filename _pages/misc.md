@@ -16,7 +16,7 @@ permalink: /misc/
 -->
 
 <!---
-## <font color="#00cc66"> Gallery </font>
+## <font color="#02225F"> Gallery </font>
 <a href="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/images/Sharif.jpg">
 This part of my life... this little part is called happyness...
 
@@ -53,7 +53,7 @@ This part of my life... this little part is called happyness...
 <img src="https://github.com/omar-sharif03/omar-sharif03.github.io/blob/master/myimages/d3.jpg" alt="d3" width="220"/>
 
 
-## <font color="#00cc66"> Quotes </font>   
+## <font color="#02225F"> Quotes </font>   
 -->
 
 Whenever I feel depressed or exhausted, I try to utter few quotes in my mind from here. These points are taken from different books I have read over time.
