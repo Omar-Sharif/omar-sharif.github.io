@@ -1,0 +1,88 @@
+/* ==========================================================================
+   TEACHING LIST
+   CV-style entry list used on /teach/. Replaces a wide 6-column table that
+   could not fit the content area on narrow screens.
+   ========================================================================== */
+
+.course-list {
+  margin: 1.5em 0 2em;
+  border-top: 1px solid $light-gray;
+}
+
+.course {
+  display: grid;
+  grid-template-columns: 8.5em 1fr;
+  gap: 0.15em 1.25em;
+  padding: 0.85em 0.25em;
+  border-bottom: 1px solid $light-gray;
+  font-size: $type-size-6;
+
+  &:hover {
+    background-color: mix(#fff, $lighter-gray, 40%);
+  }
+}
+
+.course__term {
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  color: $gray;
+  font-size: $type-size-6;
+  white-space: nowrap;
+}
+
+.course__title {
+  grid-column: 2;
+  color: $text-color;
+
+  .course__role {
+    font-weight: bold;
+    color: $primary-color;
+  }
+}
+
+.course__meta {
+  grid-column: 2;
+  color: $gray;
+  font-size: $type-size-7;
+
+  a {
+    color: #990033;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .course__sep {
+    margin: 0 0.4em;
+    color: $light-gray;
+  }
+}
+
+.course__where {
+  font-style: italic;
+  color: $gray;
+}
+
+/* Stack the term above the entry once the two-column grid stops fitting. */
+@include breakpoint(max-width $small) {
+  .course {
+    grid-template-columns: 1fr;
+    gap: 0.2em;
+  }
+
+  .course__term,
+  .course__title,
+  .course__meta {
+    grid-column: 1;
+  }
+
+  .course__term {
+    grid-row: auto;
+    font-size: $type-size-7;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+}

@@ -6,19 +6,67 @@ permalink: /teach/
 
 ---
 
-I received the <b>Outstanding TA Award (2025)</b> for my teaching contributions in the CS Department at Dartmouth. I taught theory courses and lab sessions as an instructor at CUET. Created and graded assignments, projects, and final exams.
+I received the <b>Outstanding TA Award (2025)</b> for my teaching contributions at Dartmouth.
 
-| Term | Role | Affiliation | Course Title | Class Size | Syllabus |
-|-- | -- | ----          | --          | ----         | -----|
-|Spring 26 | Head teaching assistant | Dartmouth | CS 70: Foundations of Applied Computer Science | 50 | [<font color= "#990033" >🎯[COSC-70]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-70/)|
-|Winter 26 | Graduate teaching assistant | Dartmouth | CS 10: Object Oriented Programming | 76 | [<font color= "#990033" >🎯[COSC-10]</font>](https://www.cs.dartmouth.edu/~cs10/)|
-|Fall 23 & 24 | Head teaching assistant | Dartmouth | CS 74/274: Machine Learning and Statistical Data Analysis | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
-|Spring 24 | Graduate teaching assistant | Dartmouth | CS 89: Transforming Healthcare through ML | 12 | [<font color= "#990033" >🎯[COSC-89]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-89)|
-|Winter 23 | Graduate teaching assistant | Dartmouth | CS 39: Theory of Computation | 20 | [<font color= "#990033" >🎯[COSC-39]</font>](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php)|
-|Fall 22 | Graduate teaching assistant | Dartmouth | CS 31: Algorithms | 55 | [<font color= "#990033" >🎯[COSC-31]</font>](https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm)|
-|Fall 20 & 21 | Instructor | CUET | CS 143: Object-oriented programming (C++) | 132 | [<font color= "#990033" >🎯[Course]</font>](../files/Course-Syllabus-for-CSE-143.pdf) \| [<font color= "#990033" >🎯[Lab]</font>](../files/Lab_Manual_OOP_144.pdf)|
-|Spring 20 & 21 | Instructor | CUET | CS 141: Structured programming (C) | 130 | [<font color= "#990033" >🎯[Course]</font>](../files/Course_Syllabus.pdf) \| [<font color= "#990033" >🎯[Lab]</font>](../files/CSE-142-Lecture-Plan.pdf)|
-|Summer 21 | Instructor | CUET | CS 326: Internet programming (lab) | 65 | [<font color= "#990033" >🎯[Course]</font>](../files/Course-Syllabus-for-CSE-326.pdf)|
+{% include base_path %}
+
+<div class="course-list">
+
+  <div class="course">
+    <div class="course__term">Spring 26</div>
+    <div class="course__title"><span class="course__role">Head Teaching Assistant</span>, CS 70: Foundations of Applied Computer Science</div>
+    <div class="course__meta"><span class="course__where">Dartmouth</span><span class="course__sep">|</span>Class size: 50<span class="course__sep">|</span><a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-70/">🎯 Course</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Winter 26</div>
+    <div class="course__title"><span class="course__role">Graduate Teaching Assistant</span>, CS 10: Object Oriented Programming</div>
+    <div class="course__meta"><span class="course__where">Dartmouth</span><span class="course__sep">|</span>Class size: 76<span class="course__sep">|</span><a href="https://www.cs.dartmouth.edu/~cs10/">🎯 Course</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Fall 23 &amp; 24</div>
+    <div class="course__title"><span class="course__role">Head Teaching Assistant</span>, CS 74/274: Machine Learning and Statistical Data Analysis</div>
+    <div class="course__meta"><span class="course__where">Dartmouth</span><span class="course__sep">|</span>Class size: 150<span class="course__sep">|</span><a href="https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/">🎯 Course</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Spring 24</div>
+    <div class="course__title"><span class="course__role">Graduate Teaching Assistant</span>, CS 89: Transforming Healthcare through ML</div>
+    <div class="course__meta"><span class="course__where">Dartmouth</span><span class="course__sep">|</span>Class size: 12<span class="course__sep">|</span><a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-89">🎯 Course</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Winter 23</div>
+    <div class="course__title"><span class="course__role">Graduate Teaching Assistant</span>, CS 39: Theory of Computation</div>
+    <div class="course__meta"><span class="course__where">Dartmouth</span><span class="course__sep">|</span>Class size: 20<span class="course__sep">|</span><a href="https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php">🎯 Course</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Fall 22</div>
+    <div class="course__title"><span class="course__role">Graduate Teaching Assistant</span>, CS 31: Algorithms</div>
+    <div class="course__meta"><span class="course__where">Dartmouth</span><span class="course__sep">|</span>Class size: 55<span class="course__sep">|</span><a href="https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm">🎯 Course</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Fall 20 &amp; 21</div>
+    <div class="course__title"><span class="course__role">Instructor</span>, CS 143: Object-oriented programming (C++)</div>
+    <div class="course__meta"><span class="course__where">CUET</span><span class="course__sep">|</span>Class size: 132<span class="course__sep">|</span><a href="{{ base_path }}/files/Course-Syllabus-for-CSE-143.pdf">🎯 Course</a><span class="course__sep">|</span><a href="{{ base_path }}/files/Lab_Manual_OOP_144.pdf">🎯 Lab</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Spring 20 &amp; 21</div>
+    <div class="course__title"><span class="course__role">Instructor</span>, CS 141: Structured programming (C)</div>
+    <div class="course__meta"><span class="course__where">CUET</span><span class="course__sep">|</span>Class size: 130<span class="course__sep">|</span><a href="{{ base_path }}/files/Course_Syllabus.pdf">🎯 Course</a><span class="course__sep">|</span><a href="{{ base_path }}/files/CSE-142-Lecture-Plan.pdf">🎯 Lab</a></div>
+  </div>
+
+  <div class="course">
+    <div class="course__term">Summer 21</div>
+    <div class="course__title"><span class="course__role">Instructor</span>, CS 326: Internet programming (lab)</div>
+    <div class="course__meta"><span class="course__where">CUET</span><span class="course__sep">|</span>Class size: 65<span class="course__sep">|</span><a href="{{ base_path }}/files/Course-Syllabus-for-CSE-326.pdf">🎯 Course</a></div>
+  </div>
+
+</div>
 
 
 
