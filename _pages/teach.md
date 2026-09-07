@@ -6,20 +6,19 @@ permalink: /teach/
 
 ---
 
-Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
+I received the <b>Outstanding TA Award (2025)</b> for my teaching contributions in the CS Department at Dartmouth. I taught theory courses and lab sessions as an instructor at CUET. Created and graded assignments, projects, and final exams.
 
-| Role | Affiliation | Course Title | Class Size | Syllabus |
-|-- | ----          | --          | ----         | -----|
-|Teaching assistant | Dartmouth | Machine Learning | 70 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
-|Teaching assistant | Dartmouth | Topics in Applied Computer Science | 12 | [<font color= "#990033" >🎯[COSC-189]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/)|
-|Teaching assistant | Dartmouth | Machine Learning | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
-|Teaching assistant | Dartmouth | Theory of Computation | 20 | [<font color= "#990033" >🎯[COSC-39]</font>](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php)|
-|Teaching assistant | Dartmouth | Algorithms | 55 | [<font color= "#990033" >🎯[COSC-31]</font>](https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm)|
-|Co-instructor | CUET | Object-oriented programming (C++) | 132 | [<font color= "#990033" >🎯[CSE-143]</font>](../files/Course-Syllabus-for-CSE-143.pdf)|
-|Co-instructor | CUET | Object-oriented programming (Sessional) | 132 | [<font color= "#990033" >🎯[CSE-144]</font>](../files/Lab_Manual_OOP_144.pdf)|
-|Co-instructor | CUET | Structured Programming (C) | 130 | [<font color= "#990033" >🎯[CSE-141]</font>](../files/Course_Syllabus.pdf)|
-|Co-instructor | CUET | Structured Programming (Sessional) | 130 | [<font color= "#990033" >🎯[CSE-142]</font>](../files/CSE-142-Lecture-Plan.pdf)|
-|Co-instructor | CUET | Internet Programming (Sessional) | 65 | [<font color= "#990033" >🎯[CSE-326]</font>](../files/Course-Syllabus-for-CSE-326.pdf)|
+| Term | Role | Affiliation | Course Title | Class Size | Syllabus |
+|-- | -- | ----          | --          | ----         | -----|
+|Spring 26 | Head teaching assistant | Dartmouth | CS 70: Foundations of Applied Computer Science | 50 | [<font color= "#990033" >🎯[COSC-70]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-70/)|
+|Winter 26 | Graduate teaching assistant | Dartmouth | CS 10: Object Oriented Programming | 76 | [<font color= "#990033" >🎯[COSC-10]</font>](https://www.cs.dartmouth.edu/~cs10/)|
+|Fall 23 & 24 | Head teaching assistant | Dartmouth | CS 74/274: Machine Learning and Statistical Data Analysis | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
+|Spring 24 | Graduate teaching assistant | Dartmouth | CS 89: Transforming Healthcare through ML | 12 | [<font color= "#990033" >🎯[COSC-89]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-89)|
+|Winter 23 | Graduate teaching assistant | Dartmouth | CS 39: Theory of Computation | 20 | [<font color= "#990033" >🎯[COSC-39]</font>](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php)|
+|Fall 22 | Graduate teaching assistant | Dartmouth | CS 31: Algorithms | 55 | [<font color= "#990033" >🎯[COSC-31]</font>](https://www.cs.dartmouth.edu/~deepc/cs31-lecture-notes.htm)|
+|Fall 20 & 21 | Instructor | CUET | CS 143: Object-oriented programming (C++) | 132 | [<font color= "#990033" >🎯[Course]</font>](../files/Course-Syllabus-for-CSE-143.pdf) \| [<font color= "#990033" >🎯[Lab]</font>](../files/Lab_Manual_OOP_144.pdf)|
+|Spring 20 & 21 | Instructor | CUET | CS 141: Structured programming (C) | 130 | [<font color= "#990033" >🎯[Course]</font>](../files/Course_Syllabus.pdf) \| [<font color= "#990033" >🎯[Lab]</font>](../files/CSE-142-Lecture-Plan.pdf)|
+|Summer 21 | Instructor | CUET | CS 326: Internet programming (lab) | 65 | [<font color= "#990033" >🎯[Course]</font>](../files/Course-Syllabus-for-CSE-326.pdf)|
 
 
 
