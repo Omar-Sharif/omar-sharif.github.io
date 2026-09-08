@@ -12,6 +12,56 @@ My hand notes while I completed the <a href="https://www.coursera.org/specializa
  * Convolutional Neural Networks <a href="https://drive.google.com/file/d/1bCqlppOAW270Q4ZEv3lI6uw0-Zs1BI23/view?usp=sharing">Note</a>.
  * Sequence Models <a href="https://drive.google.com/file/d/14o0ptgBZw8sdzFXg35NqEL5Ar8KrN3_L/view?usp=sharing">Note</a>.
 
+## <font color="#02225F"> Academic Service </font> 
+Program Committee Member/Reviewer for, 
+  * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
+  * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
+
+## <font color="#02225F"> NLP Resources </font>   
+List of few books, courses and blog posts that I find really helpfull.
+
+* **Advices**
+   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
+   * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
+   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
+   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
+
+* **Books**
+   * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
+   * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
+   * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
+   * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
+   * Deep Learning [[link]](https://www.deeplearningbook.org/)
+
+* **Courses**
+   * CMU Advanced NLP course [[Advanced NLP]](http://www.phontron.com/class/anlp2021/index.html)   
+   * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
+   * NTU NLP course [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
+   * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+   * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
+
+* **Follow**
+   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
+   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
+   * Colah's Blog [[Link]](http://colah.github.io/).
+   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
+   
+
+<!---
+I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and eventually enable seamless interaction between intelligent machines and humans. I spent Spring 2025 interning at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve visual reasoning capabilities of MLLMs through Reinforcement learning.
+-->
+
+ <!-- it is crucial to process, relate, and combine information from several modalities. -->
+
+ <!---
+ I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
+ I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and . I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual) to enable seamless interaction between intelligent machines and humans.
+-->
+
+ <!---
+ Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
+-->
+
 ## <font color="#02225F"> NLP Papers </font>
 A subset of papers that I found useful in clarifying my understanding of various NLP topics. 
 <pre>

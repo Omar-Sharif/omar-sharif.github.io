@@ -1,4 +1,90 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var links = document.querySelectorAll("a[href]");
+    for (var i = 0; i < links.length; i++) {
+      var a = links[i];
+      if (a.hostname && a.hostname !== window.location.hostname) {
+        a.setAttribute("target", "_blank");
+        a.setAttribute("rel", "noopener noreferrer");
+      }
+    }
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var bar = document.querySelector(".pubbar");
+    if (!bar) return;
+    var pubs = document.querySelectorAll(".pub");
+    var years = document.querySelectorAll(".pub-year");
+    var count = document.getElementById("pubCount");
+
+    var active = [];
+
+    function matches(el) {
+      if (!active.length) return true;
+      var tags = " " + el.getAttribute("data-tags") + " ";
+      for (var i = 0; i < active.length; i++) {
+        if (tags.indexOf(" " + active[i] + " ") > -1) return true;
+      }
+      return false;
+    }
+
+    function apply() {
+      var shown = 0;
+      for (var i = 0; i < pubs.length; i++) {
+        var ok = matches(pubs[i]);
+        pubs[i].classList.toggle("is-hidden", !ok);
+        if (ok) shown++;
+      }
+      for (var j = 0; j < years.length; j++) {
+        var n = years[j].nextElementSibling, any = false;
+        while (n && !n.classList.contains("pub-year")) {
+          if (n.classList.contains("pub") && !n.classList.contains("is-hidden")) { any = true; break; }
+          n = n.nextElementSibling;
+        }
+        years[j].classList.toggle("is-hidden", !any);
+      }
+
+      var btns = bar.querySelectorAll(".pubbar__btn");
+      for (var k = 0; k < btns.length; k++) {
+        var f = btns[k].getAttribute("data-filter");
+        btns[k].classList.toggle("is-active",
+          f === "all" ? active.length === 0 : active.indexOf(f) > -1);
+      }
+
+      count.textContent = active.length
+        ? "Showing " + shown + " of " + pubs.length + " publications"
+        : "Showing all " + pubs.length + " publications";
+
+      if (history.replaceState) {
+        history.replaceState(null, "", active.length ? "#" + active.join(",") : location.pathname);
+      }
+    }
+
+    bar.addEventListener("click", function (e) {
+      var b = e.target.closest(".pubbar__btn");
+      if (!b) return;
+      var f = b.getAttribute("data-filter");
+      if (f === "all") {
+        active = [];
+      } else {
+        var at = active.indexOf(f);
+        if (at > -1) active.splice(at, 1); else active.push(f);
+      }
+      apply();
+    });
+
+    var hash = (location.hash || "").replace("#", "");
+    if (hash) {
+      var want = hash.split(",");
+      for (var m = 0; m < want.length; m++) {
+        if (bar.querySelector('[data-filter="' + want[m] + '"]') && want[m] !== "all") active.push(want[m]);
+      }
+    }
+    apply();
+  });
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

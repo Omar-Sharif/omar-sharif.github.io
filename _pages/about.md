@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Hello, this is Omar,"
+title: ""
 excerpt: "About me"
+classes: page--plain-links
 
 ---
 
@@ -16,19 +17,40 @@ redirect_from:
   - /about.html
 -->
 
-<p align="justify">
-I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>, advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>. I also frequently collaborate  with Prof. <a href="https://www.cs.dartmouth.edu/~soroush/">Souroush Vosoughi</a>. My research focuses on leveraging AI and NLP to advance social good and computational health. 
+<div class="idbar">
+  <img class="idbar__photo" src="{{ base_path }}/images/profile.png" alt="Omar Sharif">
+  <!-- <div class="idbar__info">
+    <div class="idbar__name">Omar Sharif <span class="idbar__bn">(ওমর শরিফ)</span></div>
+    <div class="idbar__role">PhD Student, Computer Science &middot; Dartmouth College &middot; Hanover, NH</div>
+    <div class="idbar__links">
+      <a class="idlink" href="mailto:omar.sharif.gr@dartmouth.edu"><i class="fas fa-envelope"></i> Email</a>
+      <a class="idlink" href="{{ base_path }}/cv/"><i class="fas fa-file-alt"></i> CV</a>
+      <a class="idlink" href="https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><i class="ai ai-google-scholar"></i> Scholar</a>
+      <a class="idlink" href="https://github.com/omar-sharif03"><i class="fab fa-github"></i> GitHub</a>
+      <a class="idlink" href="https://www.linkedin.com/in/omar1303"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    </div>
+  </div> -->
+</div>
 
-Currently, I work on information extraction, building structured representations from unstructured data. These representations serve as intermediate scaffolds that improve retrieval, reasoning, and and  decision-making in high-stakes domains. I am also enthusiastic about Multimodal NLP, particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
+<p align="justify">
+I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>, advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>. I also frequently collaborate  with Prof. <a href="https://www.cs.dartmouth.edu/~soroush/">Souroush Vosoughi</a>. The overarching aim of my research is to <b>transform complex information into structured representations that can be <i> processed</i>, <i>understood</i>, and <i>acted on</i>.</b>
+<br> 
+
+ <!-- My research centers on <b>natural language processing<b> and <b>multimodality</b>, exploring how language technologies can improve access to and understanding of complex information, particularly in healthcare. I develop methods for extracting structured knowledge from unstructured data, designing reliable evaluation frameworks, and improving how AI systems reason across modalities. -->
+
+Currently, I am working on information extraction, building structured representations from unstructured data. These representations serve as intermediate scaffolds that improve retrieval, reasoning, and and  decision-making in high-stakes domains. I am also work on Multimodal NLP, where I develop models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. Please check details in my <a href="https://omar-sharif.github.io/research/">research page</a>.
 </p> 
 
+ <div class="idbar__links">
+      <a class="idlink" href="mailto:omar.sharif.gr@dartmouth.edu"><i class="fas fa-envelope"></i> Email</a>
+      <a class="idlink" href="{{ base_path }}/cv/"><i class="fas fa-file-alt"></i> CV</a>
+      <a class="idlink" href="https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><i class="ai ai-google-scholar"></i> Scholar</a>
+      <a class="idlink" href="https://github.com/omar-sharif"><i class="fab fa-github"></i> GitHub</a>
+      <a class="idlink" href="https://www.linkedin.com/in/omar1303"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    </div>
 <!-- <p align="justify">
 Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest.  
 </p> -->
-
-<b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
-
-<b>My latest: </b> [<a href="{{ base_path }}/cv/"><font color="#990033">Resume</font></a>]
 
 
 <!---
@@ -44,110 +66,123 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 -->
 
 ## <font color="#02225F"> Updates </font>
-<div style="height: 400px; overflow: auto;">
-<pre>
-<span style="color:rgb(201, 76, 76)">1 Jan,26</span>     Check our new <a href="https://arxiv.org/abs/2601.00215"><font color="#cc00ff">paper</font></a> on visual reasoning.
-<span style="color:rgb(201, 76, 76)">6-9 Oct,25</span>   Attened <a href="https://colmweb.org/">COLM-2025</a> in Montreal 🍁.
-<span style="color:rgb(201, 76, 76)">20 Aug,25</span>    Our <a href="https://arxiv.org/pdf/2502.16838"><font color="#cc00ff">REGen paper</font></a> accepted at <a href="https://2025.emnlp.org/">EMNLP-2025</a> (findings).
-<span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.
-<span style="color:rgb(201, 76, 76)">5 Aug,25</span>     Accepted <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI-26</a> program committee invitation.
-<span style="color:rgb(201, 76, 76)">9 June,25</span>    Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.
-<span style="color:rgb(201, 76, 76)">15 May,25</span>    Two papers accepted at <a href="https://2025.aclweb.org/">ACL-2025</a> (1 Main, 1 Findings).
-<span style="color:rgb(201, 76, 76)">29 Apr,25</span>    One <a href="https://www.jmir.org/2025/1/e68886/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.jmir.org/">JMIR</a> (Impact Factor: 6.0).
-<span style="color:rgb(201, 76, 76)">10 Mar,25</span>    Started my research internship at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team.
-<span style="color:rgb(201, 76, 76)">12-16 Nov,24</span> Attended <a href="https://2024.emnlp.org/">EMNLP-2024</a> and presented our paper (<a href="https://aclanthology.org/2024.emnlp-main.673"><font color="#cc00ff">DiscourseEE</font></a>).
-<span style="color:rgb(201, 76, 76)">27 Oct,24</span>    Received <b>Gurarini Travel Award</b> to present my research.
-<span style="color:rgb(201, 76, 76)">20 Sep,24</span>    One <a href="https://omar-sharif03.github.io/DiscourseEE/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a>.
-<span style="color:rgb(201, 76, 76)">30 July,24</span>   Our group is in <a href="https://openai.com/form/researcher-access-program/"><font color="#cc00ff">OpenAI Researcher Access Program</font></a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
-<span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
-<span style="color:rgb(201, 76, 76)">13 Apr,24</span>    Received <b>AAAI Travel Grant</b>  as a support to attend and present my paper at <a href="https://www.icwsm.org/2024/index.html/index.html">ICWSM-2024</a>.
-<span style="color:rgb(201, 76, 76)">06 Feb,24</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2024.eacl.org/">EACL-2024</a>.
-<span style="color:rgb(201, 76, 76)">22 Jan,24</span>    One <a href="https://aclanthology.org/2024.eacl-srw.12/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.eacl.org/">EACL-SRW-2024</a>.
-<span style="color:rgb(201, 76, 76)">09 Dec,23</span>    One <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30241"><font color="#cc00ff">paper</font></a> accepted at <a href="https://aaai.org/aaai-conference/">AAAI-2024</a>.
-<span style="color:rgb(201, 76, 76)">6-10 Dec,23</span>  Virtually attended <a href="https://2023.emnlp.org/">EMNLP-2023</a> and presented our papers (<a href="https://aclanthology.org/2023.findings-emnlp.273/"><font color="#cc00ff">Paper-1</font></a>, <a href="https://arxiv.org/pdf/2309.06541.pdf"><font color="#cc00ff">Paper-2</font></a>).
-<span style="color:rgb(201, 76, 76)">27 Oct,23</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.
-<span style="color:rgb(201, 76, 76)">23 Oct,23</span>    One <a href="https://arxiv.org/abs/2309.06541"><font color="#cc00ff">paper</font></a> accepted in <a href="https://gem-benchmark.com/workshop">GEM-Workshop</a> at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.
-<span style="color:rgb(201, 76, 76)">06 Oct,23</span>    Feeling awesome!! One paper accepted at <a href="https://2023.emnlp.org/">EMNLP-2023</a> Findings.
-<span style="color:rgb(201, 76, 76)">19 Sep,23</span>    Presented a <a href="https://drive.google.com/file/d/180rgB5PVcHhKjfn8Q4M94sejQ5NnoRA8/view?usp=sharing"><font>poster</font></a> at <a href="https://www.c4tbh.org/mental-health-ai-symposium/">Digital Mental Health & AI Symposium</a> organized by <a href="https://www.c4tbh.org/">CTBH</a>.
-<span style="color:rgb(201, 76, 76)">15 July,23</span>   One <a href="https://arxiv.org/abs/2301.11508"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>.
-<span style="color:rgb(201, 76, 76)">20-23 Nov,22</span> Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
-<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
-<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Joined <a href="https://home.dartmouth.edu/">Dartmouth</a> to pursue my PhD in CS.
-<span style="color:rgb(201, 76, 76)">27 Jun,22</span>    Promoted to Assitant Professor in Dept. of CSE, CUET. Feeling super happy!!!
-<span style="color:rgb(201, 76, 76)">20-25 Jun,22</span> Virtually attended <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> and presented our paper <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf"><font color="#cc00ff">MemoSen</font></a>
-<span style="color:rgb(201, 76, 76)">17 Jun,22</span>    Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<font color= "#f00">[IF: 13.437]</font> Feeling awesome!!! 
-<span style="color:rgb(201, 76, 76)">22-27 May,22</span> Received <b>D&I Award</b> as a support to attend and present our papers at <a href="https://www.2022.aclweb.org/conference-programme">ACL-2022</a>.
-<span style="color:rgb(201, 76, 76)">6 Apr,22</span>     One paper accepted at <a href="https://lcs2.iiitd.edu.in/CONSTRAINT-2022/">CONSTRAINT@ACL-2022</a>.
-<span style="color:rgb(201, 76, 76)">4 Apr,22</span>     One paper accepted at <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> main conference.
-<span style="color:rgb(201, 76, 76)">26 Mar,22</span>    4 shared task papers accepted at <a href="https://www.2022.aclweb.org/workshops">ACL-2022</a> workshops.
-<span style="color:rgb(201, 76, 76)">02 Jan,22</span>    Feeling awesome!!! Successfully defended my Master's thesis.<a href="https://docs.google.com/presentation/d/1GTHUAWxUmvd5kgwl9xPERwYf0bnkLgbY/edit?usp=sharing&ouid=103730353445379362338&rtpof=true&sd=true"><font color="#cc00ff">[Slides]</font></a>
-<span style="color:rgb(201, 76, 76)">20 Dec,21</span>    <a href="https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset"><font color="#cc00ff">Bengali Aggressive Text Dataset (BAD)</font></a> is released. Hope this dataset will pave the way for undesired/toxic language detection research in Bengali.
-<span style="color:rgb(201, 76, 76)">5 Dec,21</span>     Feeling super happy!!! <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567"><font color="#cc00ff">Paper</font></a> accepted at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing Journal</a>.<font color= "#f00">[IF: 5.719, HI: 143]</font>
-<span style="color:rgb(201, 76, 76)">7-11 Nov,21</span>  Received <b>D&I Award</b> and virtually attended <a href="https://2021.emnlp.org/">EMNLP-2021</a>.
-<span style="color:rgb(201, 76, 76)">5 Nov,21</span>     Two papers (<a href="https://link.springer.com/article/10.1007/s42979-021-00922-z"><font color="#cc00ff">Sentiment</font></a>, <a href="https://link.springer.com/article/10.1007/s42979-021-00913-0"><font color="#cc00ff">Emotion</font></a>) accepted in <a href="https://www.springer.com/journal/42979">SN Computer Science</a> journal.
-<span style="color:rgb(201, 76, 76)">1-6 Aug,21</span>   Virtually attended <a href="https://2021.aclweb.org/">ACL-2021</a>.
-<span style="color:rgb(201, 76, 76)">26 June,21</span>   Successfully organized <a href="https://cuetnlp.com/iwcaut2021/">International Workshop on Computational Analysis of Undesired Texts on Social Media</a>.
-<span style="color:rgb(201, 76, 76)">7 June,21</span>    Presented our <a href="https://aclanthology.org/2021.naacl-srw.19/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
-<span style="color:rgb(201, 76, 76)">7 Apr,21</span>     Received <b>D&I Award</b> as a support to attend and present my work at <a href="https://2021.eacl.org/">EACL-2021</a>.
-<span style="color:rgb(201, 76, 76)">27 Mar,21</span>    One <a href="https://arxiv.org/abs/2104.08613"><font color="#cc00ff">paper</font></a> accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.<font color= "#f00">[Acceptance rate: 44%]</font>
-<span style="color:rgb(201, 76, 76)">15 Feb,21</span>    Three papers (<a href="https://www.aclweb.org/anthology/2021.ltedi-1.25/"><font color="#cc00ff">Hope</font></a>, <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.35/"><font color="#cc00ff">Offensive</font></a>, <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/"><font color="#cc00ff">Multimodal</font></a>) accepted at <a href="https://2021.eacl.org/">EACL-2021</a> workshops.
-<span style="color:rgb(201, 76, 76)">8 Feb,21</span>     Achieved <b>Best paper award (research track)</b> at <a href="http://lcs2.iiitd.edu.in/CONSTRAINT-2021">CONSTRAINT</a> collocated with <a href="https://aaai.org/Conferences/AAAI-21/">AAAI-2021</a>.<font color= "#f00">[Acceptance rate: 37.1%]</font>
-<span style="color:rgb(201, 76, 76)">16 Jan,21</span>    Our team NLP@CUET secured <b>1<sup>st</sup></b>, <b>3<sup>rd</sup></b> and <b>3<sup>rd</sup></b> position at <a href="https://sites.google.com/view/lt-edi-2021/home">Hope speech</a>, <a href="https://dravidianlangtech.github.io/2021/index.html">Offensive language</a> and <a href="https://dravidianlangtech.github.io/2021/index.html">Multimodal meme</a> detection shared tasks.
-<span style="color:rgb(201, 76, 76)">19 Dec,20</span>    Presented a <a href="https://arxiv.org/abs/2012.11420"><font color="#cc00ff">paper</font></a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html">ICON-2020</a>.
-<span style="color:rgb(201, 76, 76)">12 Sep,20</span>    <a href="https://www.mdpi.com/2076-3417/10/18/6527"><font color="#cc00ff">Paper</font></a> accepted at Jouranl of <a href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.<font color= "#f00">[IF: 2.67]</font>
+<div class="updates-wrap">
+<div class="updates">
+<div class="update-year">2026</div>
+<div class="update"><span class="update__date">20 Aug</span><span 
+class="update__text">Our <a href="https://omar-sharif.github.io/LoQ/">paper</a> focus on improving information extraction accepted at <a href="https://2026.emnlp.org/">EMNLP-2026</a> (findings).</span></div>
+
+<div class="update"><span class="update__date">28 July</span><span 
+class="update__text">Successfully proposed my thesis 🎉. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://kereoz.github.io/">Christophe Hauser</a>, <a href="https://llwang.net/">Lucy Lu Wang</a> and <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a> (Chair).</span></div>
+
+<div class="update"><span class="update__date">1 Jan</span><span class="update__text">Check our new <a href="https://arxiv.org/abs/2601.00215">paper</a> on visual reasoning.</span></div>
+
+<div class="update-year">2025</div>
+<div class="update"><span class="update__date">6–9 Oct</span><span class="update__text">Attened <a href="https://colmweb.org/">COLM-2025</a> in Montreal 🍁.</span></div>
+<div class="update"><span class="update__date">20 Aug</span><span class="update__text">Our <a href="https://arxiv.org/pdf/2502.16838">REGen paper</a> accepted at <a href="https://2025.emnlp.org/">EMNLP-2025</a> (findings).</span></div>
+<div class="update"><span class="update__date">19 Aug</span><span class="update__text">Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.</span></div>
+<div class="update"><span class="update__date">5 Aug</span><span class="update__text">Accepted <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI-26</a> program committee invitation.</span></div>
+<div class="update"><span class="update__date">9 June</span><span class="update__text">Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.</span></div>
+<div class="update"><span class="update__date">15 May</span><span class="update__text">Two papers accepted at <a href="https://2025.aclweb.org/">ACL-2025</a> (1 Main, 1 Findings).</span></div>
+<div class="update"><span class="update__date">29 April</span><span class="update__text">One <a href="https://www.jmir.org/2025/1/e68886/">paper</a> accepted at <a href="https://www.jmir.org/">JMIR</a> (Impact Factor: 6.0).</span></div>
+<div class="update"><span class="update__date">10 March</span><span class="update__text">Started my research internship at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team.</span></div>
+<div class="update-year">2024</div>
+<div class="update"><span class="update__date">12–16 Nov</span><span class="update__text">Attended <a href="https://2024.emnlp.org/">EMNLP-2024</a> and presented our paper (<a href="https://aclanthology.org/2024.emnlp-main.673">DiscourseEE</a>).</span></div>
+<div class="update"><span class="update__date">27 Oct</span><span class="update__text">Received <b>Gurarini Travel Award</b> to present my research.</span></div>
+<div class="update"><span class="update__date">20 Sep</span><span class="update__text">One <a href="https://omar-sharif03.github.io/DiscourseEE/">paper</a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a>.</span></div>
+<div class="update"><span class="update__date">30 July</span><span class="update__text">Our group is in <a href="https://openai.com/form/researcher-access-program/">OpenAI Researcher Access Program</a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.</span></div>
+<div class="update"><span class="update__date">16 May</span><span class="update__text">One <a href="https://arxiv.org/abs/2403.10829">paper</a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.</span></div>
+<div class="update"><span class="update__date">13 April</span><span class="update__text">Received <b>AAAI Travel Grant</b>  as a support to attend and present my paper at <a href="https://www.icwsm.org/2024/index.html/index.html">ICWSM-2024</a>.</span></div>
+<div class="update"><span class="update__date">6 Feb</span><span class="update__text">Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2024.eacl.org/">EACL-2024</a>.</span></div>
+<div class="update"><span class="update__date">22 Jan</span><span class="update__text">One <a href="https://aclanthology.org/2024.eacl-srw.12/">paper</a> accepted at <a href="https://2024.eacl.org/">EACL-SRW-2024</a>.</span></div>
+<div class="update-year">2023</div>
+<div class="update"><span class="update__date">9 Dec</span><span class="update__text">One <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30241">paper</a> accepted at <a href="https://aaai.org/aaai-conference/">AAAI-2024</a>.</span></div>
+<div class="update"><span class="update__date">6–10 Dec</span><span class="update__text">Virtually attended <a href="https://2023.emnlp.org/">EMNLP-2023</a> and presented our papers (<a href="https://aclanthology.org/2023.findings-emnlp.273/">Paper-1</a>, <a href="https://arxiv.org/pdf/2309.06541.pdf">Paper-2</a>).</span></div>
+<div class="update"><span class="update__date">27 Oct</span><span class="update__text">Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.</span></div>
+<div class="update"><span class="update__date">23 Oct</span><span class="update__text">One <a href="https://arxiv.org/abs/2309.06541">paper</a> accepted in <a href="https://gem-benchmark.com/workshop">GEM-Workshop</a> at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.</span></div>
+<div class="update"><span class="update__date">6 Oct</span><span class="update__text">Feeling awesome!! One paper accepted at <a href="https://2023.emnlp.org/">EMNLP-2023</a> Findings.</span></div>
+<div class="update"><span class="update__date">19 Sep</span><span class="update__text">Presented a <a href="https://drive.google.com/file/d/180rgB5PVcHhKjfn8Q4M94sejQ5NnoRA8/view?usp=sharing">poster</a> at <a href="https://www.c4tbh.org/mental-health-ai-symposium/">Digital Mental Health & AI Symposium</a> organized by <a href="https://www.c4tbh.org/">CTBH</a>.</span></div>
+<div class="update"><span class="update__date">15 July</span><span class="update__text">One <a href="https://arxiv.org/abs/2301.11508">paper</a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>.</span></div>
+<div class="update-year">2022</div>
+<div class="update"><span class="update__date">20–23 Nov</span><span class="update__text">Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/">paper</a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.</span></div>
+<div class="update"><span class="update__date">12 Sep</span><span class="update__text">Awarded Presidential Graduate Fellowship from Dartmouth.</span></div>
+<div class="update"><span class="update__date">12 Sep</span><span class="update__text">Joined <a href="https://home.dartmouth.edu/">Dartmouth</a> to pursue my PhD in CS.</span></div>
+<div class="update"><span class="update__date">27 June</span><span class="update__text">Promoted to Assitant Professor in Dept. of CSE, CUET. Feeling super happy!!!</span></div>
+<div class="update"><span class="update__date">20–25 June</span><span class="update__text">Virtually attended <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> and presented our paper <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf">MemoSen</a></span></div>
+<div class="update"><span class="update__date">17 June</span><span class="update__text">Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<span class="update__stat">[IF: 13.437]</span> Feeling awesome!!! </span></div>
+<div class="update"><span class="update__date">22–27 May</span><span class="update__text">Received <b>D&I Award</b> as a support to attend and present our papers at <a href="https://www.2022.aclweb.org/conference-programme">ACL-2022</a>.</span></div>
+<div class="update"><span class="update__date">6 April</span><span class="update__text">One paper accepted at <a href="https://lcs2.iiitd.edu.in/CONSTRAINT-2022/">CONSTRAINT@ACL-2022</a>.</span></div>
+<div class="update"><span class="update__date">4 April</span><span class="update__text">One paper accepted at <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> main conference.</span></div>
+<div class="update"><span class="update__date">26 March</span><span class="update__text">4 shared task papers accepted at <a href="https://www.2022.aclweb.org/workshops">ACL-2022</a> workshops.</span></div>
+<div class="update"><span class="update__date">2 Jan</span><span class="update__text">Feeling awesome!!! Successfully defended my Master's thesis.<a href="https://docs.google.com/presentation/d/1GTHUAWxUmvd5kgwl9xPERwYf0bnkLgbY/edit?usp=sharing&ouid=103730353445379362338&rtpof=true&sd=true">[Slides]</a></span></div>
+<div class="update-year">2021</div>
+<div class="update"><span class="update__date">20 Dec</span><span class="update__text"><a href="https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset">Bengali Aggressive Text Dataset (BAD)</a> is released. Hope this dataset will pave the way for undesired/toxic language detection research in Bengali.</span></div>
+<div class="update"><span class="update__date">5 Dec</span><span class="update__text">Feeling super happy!!! <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567">Paper</a> accepted at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing Journal</a>.<span class="update__stat">[IF: 5.719, HI: 143]</span></span></div>
+<div class="update"><span class="update__date">7–11 Nov</span><span class="update__text">Received <b>D&I Award</b> and virtually attended <a href="https://2021.emnlp.org/">EMNLP-2021</a>.</span></div>
+<div class="update"><span class="update__date">5 Nov</span><span class="update__text">Two papers (<a href="https://link.springer.com/article/10.1007/s42979-021-00922-z">Sentiment</a>, <a href="https://link.springer.com/article/10.1007/s42979-021-00913-0">Emotion</a>) accepted in <a href="https://www.springer.com/journal/42979">SN Computer Science</a> journal.</span></div>
+<div class="update"><span class="update__date">1–6 Aug</span><span class="update__text">Virtually attended <a href="https://2021.aclweb.org/">ACL-2021</a>.</span></div>
+<div class="update"><span class="update__date">26 June</span><span class="update__text">Successfully organized <a href="https://cuetnlp.com/iwcaut2021/">International Workshop on Computational Analysis of Undesired Texts on Social Media</a>.</span></div>
+<div class="update"><span class="update__date">7 June</span><span class="update__text">Presented our <a href="https://aclanthology.org/2021.naacl-srw.19/">paper</a> virtually at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.</span></div>
+<div class="update"><span class="update__date">7 April</span><span class="update__text">Received <b>D&I Award</b> as a support to attend and present my work at <a href="https://2021.eacl.org/">EACL-2021</a>.</span></div>
+<div class="update"><span class="update__date">27 March</span><span class="update__text">One <a href="https://arxiv.org/abs/2104.08613">paper</a> accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.<span class="update__stat">[Acceptance rate: 44%]</span></span></div>
+<div class="update"><span class="update__date">15 Feb</span><span class="update__text">Three papers (<a href="https://www.aclweb.org/anthology/2021.ltedi-1.25/">Hope</a>, <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.35/">Offensive</a>, <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/">Multimodal</a>) accepted at <a href="https://2021.eacl.org/">EACL-2021</a> workshops.</span></div>
+<div class="update"><span class="update__date">8 Feb</span><span class="update__text">Achieved <b>Best paper award (research track)</b> at <a href="http://lcs2.iiitd.edu.in/CONSTRAINT-2021">CONSTRAINT</a> collocated with <a href="https://aaai.org/Conferences/AAAI-21/">AAAI-2021</a>.<span class="update__stat">[Acceptance rate: 37.1%]</span></span></div>
+<div class="update"><span class="update__date">16 Jan</span><span class="update__text">Our team NLP@CUET secured <b>1<sup>st</sup></b>, <b>3<sup>rd</sup></b> and <b>3<sup>rd</sup></b> position at <a href="https://sites.google.com/view/lt-edi-2021/home">Hope speech</a>, <a href="https://dravidianlangtech.github.io/2021/index.html">Offensive language</a> and <a href="https://dravidianlangtech.github.io/2021/index.html">Multimodal meme</a> detection shared tasks.</span></div>
+<div class="update-year">2020</div>
+<div class="update"><span class="update__date">19 Dec</span><span class="update__text">Presented a <a href="https://arxiv.org/abs/2012.11420">paper</a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html">ICON-2020</a>.</span></div>
+<div class="update"><span class="update__date">12 Sep</span><span class="update__text"><a href="https://www.mdpi.com/2076-3417/10/18/6527">Paper</a> accepted at Jouranl of <a href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.<span class="update__stat">[IF: 2.67]</span></span></div>
 <!---
 <font size="2">🟤</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 <font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 -->
-</pre>
+</div>
 </div>
 
-## <font color="#02225F"> Academic Service </font> 
-Program Committee Member/Reviewer for, 
-  * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
-  * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
+## <font color="#02225F"> Selected Papers </font>
 
-## <font color="#02225F"> NLP Resources </font>   
-List of few books, courses and blog posts that I find really helpfull.
+<div class="selected">
 
-* **Advices**
-   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
-   * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
-   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
-   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
+  <div class="scard">
+    <span class="scard__badge">EMNLP 2026</span>
+    <div class="scard__title"><a href="https://arxiv.org/abs/2608.31058">Improving Information Extraction with Learned Queries</a></div>
+    <div class="scard__authors"><b class="pub__me">Omar Sharif</b>, Soroush Vosoughi, Nikhil Singh</div>
+    <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://arxiv.org/abs/2608.31058"><i class="fas fa-file-alt"></i> Paper</a><a class="pub__btn pub__btn--website" href="https://omar-sharif.github.io/LoQ/"><i class="fas fa-external-link-alt"></i> Website</a></div>
+  </div>
 
-* **Books**
-   * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
-   * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
-   * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
-   * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
-   * Deep Learning [[link]](https://www.deeplearningbook.org/)
+  <div class="scard">
+    <span class="scard__badge">Under Review</span>
+    <div class="scard__title"><a href="https://arxiv.org/abs/2601.00215">Disentangling Perception and Reasoning in Multimodal LLMs via Reward Design</a></div>
+    <div class="scard__authors"><b class="pub__me">Omar Sharif</b>, Eftekhar Hossain, Nikhil Singh*, Patrick Ng*</div>
+    <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://arxiv.org/abs/2601.00215"><i class="fas fa-file-alt"></i> Paper</a></div>
+  </div>
+  <div class="scard">
+    <span class="scard__badge">EMNLP 2025</span>
+    <div class="scard__title"><a href="https://aclanthology.org/2025.findings-emnlp.649/">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</a></div>
+    <div class="scard__authors"><b class="pub__me">Omar Sharif</b>, Joseph Gatto, Madhusudan Basak, <b>et al.</b></div>
+    <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://aclanthology.org/2025.findings-emnlp.649/"><i class="fas fa-file-alt"></i> Paper</a><a class="pub__btn pub__btn--code" href="https://github.com/Omar-Sharif/REGen"><i class="fab fa-github"></i> Code</a></div>
+  </div>
 
-* **Courses**
-   * CMU Advanced NLP course [[Advanced NLP]](http://www.phontron.com/class/anlp2021/index.html)   
-   * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
-   * NTU NLP course [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
-   * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-   * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
+  <div class="scard">
+    <span class="scard__badge">EMNLP 2024</span>
+    <div class="scard__title"><a href="https://aclanthology.org/2024.emnlp-main.673/">Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</a></div>
+    <div class="scard__authors"><b class="pub__me">Omar Sharif</b>, Joseph Gatto, Madhusudan Basak, et al. </div>
+    <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://aclanthology.org/2024.emnlp-main.673/"><i class="fas fa-file-alt"></i> Paper</a><a class="pub__btn pub__btn--website" href="https://omar-sharif03.github.io/DiscourseEE/"><i class="fas fa-external-link-alt"></i> Website</a></div>
+  </div>
 
-* **Follow**
-   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
-   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
-   * Colah's Blog [[Link]](http://colah.github.io/).
-   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
-   
+  <div class="scard">
+    <span class="scard__badge">ACL 2024</span>
+    <div class="scard__title"><a href="https://aclanthology.org/2024.acl-long.454/">Deciphering Hate: Identifying Hateful Memes and Their Targets</a></div>
+    <div class="scard__authors">Eftekhar Hossain, <b class="pub__me">Omar Sharif</b>, Mohammed Moshiul Hoque, <b>et al.</b></div>
+    <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://aclanthology.org/2024.acl-long.454/"><i class="fas fa-file-alt"></i> Paper</a><a class="pub__btn pub__btn--code" href="https://github.com/eftekhar-hossain/Bengali-Hateful-Memes/tree/main/Deciphering-Hate%40ACL"><i class="fab fa-github"></i> Code</a></div>
+  </div>
 
-<!---
-I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and eventually enable seamless interaction between intelligent machines and humans. I spent Spring 2025 interning at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve visual reasoning capabilities of MLLMs through Reinforcement learning.
--->
+  <div class="scard">
+    <span class="scard__badge">AAAI 2024</span>
+    <div class="scard__title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/30241">Characterizing Information Seeking Events in Health-Related Social Discourse</a></div>
+    <div class="scard__authors"><b class="pub__me">Omar Sharif</b>, Madhusudan Basak, Tanzia Parvin, et al. </div>
+    <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://ojs.aaai.org/index.php/AAAI/article/view/30241"><i class="fas fa-file-alt"></i> Paper</a><a class="pub__btn pub__btn--media" href="https://home.dartmouth.edu/news/2024/02/ai-tools-reveal-knowledge-gaps-addiction-treatment"><i class="fas fa-bullhorn"></i> Media</a></div>
+  </div>
 
- <!-- it is crucial to process, relate, and combine information from several modalities. -->
+</div>
 
- <!---
- I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
- I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and . I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual) to enable seamless interaction between intelligent machines and humans.
--->
-
- <!---
- Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
--->
+<div class="selected__more"><a href="{{ base_path }}/research/">See all 28 publications &rarr;</a></div>
