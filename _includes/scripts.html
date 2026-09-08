@@ -15,74 +15,143 @@
   document.addEventListener("DOMContentLoaded", function () {
     var bar = document.querySelector(".pubbar");
     if (!bar) return;
-    var pubs = document.querySelectorAll(".pub");
-    var years = document.querySelectorAll(".pub-year");
-    var count = document.getElementById("pubCount");
 
-    var active = [];
+    var LABEL = {
+      ie: "information extraction", mm: "multimodality", eval: "evaluation",
+      repr: "representation learning", clin: "clinical nlp health", sg: "social good",
+      ml: "multilingual low-resource", data: "datasets benchmarks",
+      rl: "reinforcement learning", other: "others"
+    };
 
-    function matches(el) {
-      if (!active.length) return true;
-      var tags = " " + el.getAttribute("data-tags") + " ";
-      for (var i = 0; i < active.length; i++) {
-        if (tags.indexOf(" " + active[i] + " ") > -1) return true;
-      }
-      return false;
+    var pubs   = [].slice.call(document.querySelectorAll(".pub"));
+    var search = document.getElementById("pubSearch");
+    var venue  = document.getElementById("pubVenue");
+    var year   = document.getElementById("pubYear");
+    var count  = document.getElementById("pubCount");
+    var empty  = document.getElementById("pubEmpty");
+    var topics = [];
+
+    pubs.forEach(function (el) {
+      var t = el.querySelector(".pub__title");
+      var a = el.querySelector(".pub__authors");
+      el._t = t ? t.innerHTML : "";
+      el._a = a ? a.innerHTML : "";
+      var tags = (el.getAttribute("data-tags") || "").split(" ")
+                   .map(function (k) { return LABEL[k] || k; }).join(" ");
+      el._hay = ((t ? t.textContent : "") + " " + (a ? a.textContent : "") + " " +
+                 (el.getAttribute("data-venue") || "") + " " + tags).toLowerCase();
+    });
+
+    function mark(html, q) {
+      if (!q) return html;
+      return html.replace(/>([^<]+)</g, function (all, txt) {
+        return ">" + txt.replace(new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig"),
+                                 "<mark>$1</mark>") + "<";
+      });
     }
 
     function apply() {
-      var shown = 0;
-      for (var i = 0; i < pubs.length; i++) {
-        var ok = matches(pubs[i]);
-        pubs[i].classList.toggle("is-hidden", !ok);
+      var q = (search.value || "").trim().toLowerCase();
+      var v = venue.value, y = year.value, shown = 0;
+
+      pubs.forEach(function (el) {
+        var okQ = !q || el._hay.indexOf(q) > -1;
+        var okV = !v || (el.getAttribute("data-venue") || "").indexOf("|" + v + "|") > -1;
+        var okY = !y || el.getAttribute("data-year") === y;
+        var tags = " " + (el.getAttribute("data-tags") || "") + " ";
+        var okT = !topics.length || topics.some(function (k) { return tags.indexOf(" " + k + " ") > -1; });
+        var ok = okQ && okV && okY && okT;
+        el.classList.toggle("is-hidden", !ok);
         if (ok) shown++;
-      }
-      for (var j = 0; j < years.length; j++) {
-        var n = years[j].nextElementSibling, any = false;
-        while (n && !n.classList.contains("pub-year")) {
-          if (n.classList.contains("pub") && !n.classList.contains("is-hidden")) { any = true; break; }
-          n = n.nextElementSibling;
-        }
-        years[j].classList.toggle("is-hidden", !any);
-      }
 
-      var btns = bar.querySelectorAll(".pubbar__btn");
-      for (var k = 0; k < btns.length; k++) {
-        var f = btns[k].getAttribute("data-filter");
-        btns[k].classList.toggle("is-active",
-          f === "all" ? active.length === 0 : active.indexOf(f) > -1);
-      }
+        var t = el.querySelector(".pub__title"), a = el.querySelector(".pub__authors");
+        if (t) t.innerHTML = ok ? mark(">" + el._t + "<", q).slice(1, -1) : el._t;
+        if (a) a.innerHTML = ok ? mark(">" + el._a + "<", q).slice(1, -1) : el._a;
+      });
 
-      count.textContent = active.length
+      var active = !!(q || v || y || topics.length);
+      count.textContent = active
         ? "Showing " + shown + " of " + pubs.length + " publications"
-        : "Showing all " + pubs.length + " publications";
+        : "Showing selected " + pubs.length + " publications";
+      document.querySelectorAll(".pubbar__clear").forEach(function (b) { b.hidden = !active; });
+      if (empty) empty.hidden = shown !== 0;
+      venue.classList.toggle("is-set", !!v);
+      year.classList.toggle("is-set", !!y);
 
-      if (history.replaceState) {
-        history.replaceState(null, "", active.length ? "#" + active.join(",") : location.pathname);
-      }
+      bar.querySelectorAll(".pubbar__btn").forEach(function (b) {
+        var f = b.getAttribute("data-filter");
+        b.classList.toggle("is-active", f === "all" ? !topics.length : topics.indexOf(f) > -1);
+      });
     }
 
     bar.addEventListener("click", function (e) {
       var b = e.target.closest(".pubbar__btn");
       if (!b) return;
       var f = b.getAttribute("data-filter");
-      if (f === "all") {
-        active = [];
-      } else {
-        var at = active.indexOf(f);
-        if (at > -1) active.splice(at, 1); else active.push(f);
+      if (f === "all") topics = [];
+      else {
+        var at = topics.indexOf(f);
+        if (at > -1) topics.splice(at, 1); else topics.push(f);
       }
       apply();
     });
 
-    var hash = (location.hash || "").replace("#", "");
-    if (hash) {
-      var want = hash.split(",");
-      for (var m = 0; m < want.length; m++) {
-        if (bar.querySelector('[data-filter="' + want[m] + '"]') && want[m] !== "all") active.push(want[m]);
-      }
-    }
+    search.addEventListener("input", apply);
+    venue.addEventListener("change", apply);
+    year.addEventListener("change", apply);
+
+    document.querySelectorAll(".pubbar__clear").forEach(function (b) {
+      b.addEventListener("click", function () {
+        search.value = ""; venue.value = ""; year.value = ""; topics = []; apply();
+      });
+    });
+
     apply();
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var tabs = document.querySelectorAll(".ttab");
+    if (!tabs.length) return;
+
+    function show(key) {
+      for (var i = 0; i < tabs.length; i++) {
+        var k = tabs[i].getAttribute("data-tab");
+        tabs[i].classList.toggle("is-active", k === key);
+        var panel = document.getElementById("tab-" + k);
+        if (panel) panel.classList.toggle("is-hidden", k !== key);
+      }
+      if (history.replaceState) history.replaceState(null, "", "#" + key);
+    }
+
+    for (var i = 0; i < tabs.length; i++) {
+      tabs[i].addEventListener("click", function () {
+        show(this.getAttribute("data-tab"));
+      });
+    }
+
+    var want = (location.hash || "").replace("#", "");
+    show(document.getElementById("tab-" + want) ? want : tabs[0].getAttribute("data-tab"));
+  });
+  document.addEventListener("DOMContentLoaded", function () {
+    var btn = document.getElementById("miscToggle");
+    if (!btn) return;
+    var rows = document.querySelectorAll("details.mrow");
+
+    function sync() {
+      var anyClosed = false;
+      for (var i = 0; i < rows.length; i++) if (!rows[i].open) anyClosed = true;
+      btn.textContent = anyClosed ? "Expand all" : "Collapse all";
+      btn.classList.toggle("is-open", !anyClosed);
+    }
+
+    btn.addEventListener("click", function () {
+      var open = btn.textContent === "Expand all";
+      for (var i = 0; i < rows.length; i++) rows[i].open = open;
+      sync();
+    });
+
+    for (var i = 0; i < rows.length; i++) rows[i].addEventListener("toggle", sync);
+    sync();
   });
 </script>
 

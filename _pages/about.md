@@ -69,8 +69,11 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <div class="updates-wrap">
 <div class="updates">
 <div class="update-year">2026</div>
+<div class="update"><span class="update__date">07 Sep</span><span 
+class="update__text">Our <a href="https://arxiv.org/abs/2601.00215">paper</a> on RL and visual reasoing accepted at <a href="https://2026.aaclnet.org/">AACL-2026</a> (findings).</span></div>
+
 <div class="update"><span class="update__date">20 Aug</span><span 
-class="update__text">Our <a href="https://omar-sharif.github.io/LoQ/">paper</a> focus on improving information extraction accepted at <a href="https://2026.emnlp.org/">EMNLP-2026</a> (findings).</span></div>
+class="update__text">Our <a href="https://omar-sharif.github.io/LoQ/">paper</a> on improving information extraction accepted at <a href="https://2026.emnlp.org/">EMNLP-2026</a> (findings).</span></div>
 
 <div class="update"><span class="update__date">28 July</span><span 
 class="update__text">Successfully proposed my thesis 🎉. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://kereoz.github.io/">Christophe Hauser</a>, <a href="https://llwang.net/">Lucy Lu Wang</a> and <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a> (Chair).</span></div>
@@ -150,7 +153,7 @@ class="update__text">Successfully proposed my thesis 🎉. Thanks to my committe
   </div>
 
   <div class="scard">
-    <span class="scard__badge">Under Review</span>
+    <span class="scard__badge">AACL 2026</span>
     <div class="scard__title"><a href="https://arxiv.org/abs/2601.00215">Disentangling Perception and Reasoning in Multimodal LLMs via Reward Design</a></div>
     <div class="scard__authors"><b class="pub__me">Omar Sharif</b>, Eftekhar Hossain, Nikhil Singh*, Patrick Ng*</div>
     <div class="scard__links"><a class="pub__btn pub__btn--paper" href="https://arxiv.org/abs/2601.00215"><i class="fas fa-file-alt"></i> Paper</a></div>
@@ -185,4 +188,4 @@ class="update__text">Successfully proposed my thesis 🎉. Thanks to my committe
 
 </div>
 
-<div class="selected__more"><a href="{{ base_path }}/research/">See all 28 publications &rarr;</a></div>
+<div class="selected__more"><a href="{{ base_path }}/research/">See all publications &rarr;</a></div>

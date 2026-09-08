@@ -5,14 +5,108 @@
 $pub-link : #1A5FA8;
 
 .pubbar {
+  margin: 1.4em 0 1em;
+  padding-bottom: 0.85em;
+  border-bottom: 1px solid mix(#fff, $light-gray, 55%);
+}
+
+.pubbar__top {
   display: flex;
   flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 0.7em;
+}
+
+.pubsearch {
+  display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.6em;
-  margin: 1.4em 0 0.6em;
-  padding-bottom: 0.8em;
-  border-bottom: 1px solid mix(#fff, $light-gray, 55%);
+  gap: 0.55em;
+  flex: 1;
+  min-width: 15em;
+  padding: 7px 15px;
+  border: 1px solid mix(#fff, $light-gray, 45%);
+  border-radius: 999px;
+  background: #fff;
+
+  i {
+    color: $gray;
+    font-size: 0.82em;
+  }
+
+  input {
+    flex: 1;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: none;
+    box-shadow: none;
+    color: $text-color;
+    font-family: $global-font-family;
+    font-size: $type-size-6;
+
+    &:focus {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+
+  &:focus-within {
+    border-color: mix(#fff, $primary-color, 50%);
+  }
+}
+
+.pubsel {
+  width: auto;
+  margin: 0;
+  padding: 7px 30px 7px 14px;
+  border: 1px solid mix(#fff, $light-gray, 45%);
+  border-radius: 999px;
+  background-color: #fff;
+  color: $text-color;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  cursor: pointer;
+
+  &.is-set {
+    border-color: $primary-color;
+    background-color: $primary-color;
+    color: #fff;
+  }
+}
+
+.pubbar__foot {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+}
+
+.pubbar__clear {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #9B2242;
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.pubempty {
+  margin: 1.4em 0;
+  padding: 2em 1em;
+  border: 1px dashed mix(#fff, $light-gray, 45%);
+  border-radius: 6px;
+  color: $gray;
+  font-size: $type-size-6;
+  text-align: center;
 }
 
 .pubbar__filters {
@@ -66,17 +160,52 @@ $pub-link : #1A5FA8;
   font-weight: 700;
 }
 
+.pubs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
 .pub {
   display: grid;
   grid-template-columns: 5.5em 1fr;
   gap: 1em;
-  padding: 0.5em 0;
+  padding: 0.75em 0.95em;
+  border: 1px solid mix(#fff, $light-gray, 48%);
+  border-radius: 6px;
+  background: #fff;
   font-size: $type-size-5;
   line-height: 1.45;
+  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+  &:hover {
+    background: #f2f6fb;
+    border-color: #d6e0ee;
+  }
 
   &.is-hidden {
     display: none;
   }
+}
+
+.pub + .pub {
+  margin-top: 0.5em;
+}
+
+.pub__year {
+  display: block;
+  margin-top: 3px;
+  color: $gray;
+  font-size: 0.62em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.pub mark {
+  padding: 0 1px;
+  border-radius: 2px;
+  background: #fdf3c7;
+  color: inherit;
 }
 
 .pub__badge {
