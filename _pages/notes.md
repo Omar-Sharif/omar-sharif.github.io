@@ -11,7 +11,7 @@ classes: page--plain-links
 <p class="awgrp">Reading &amp; Resources</p>
 
 <details class="mrow">
-  <summary class="mrow__lab">Papers</summary>
+  <summary class="mrow__lab">Few seminal NLP papers</summary>
   <div class="mrow__body">
     <ul class="mlist">
       <li><a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></li>
@@ -95,7 +95,7 @@ classes: page--plain-links
   </div>
 </details>
 
-<p class="awgrp">Skills &amp; Programming</p>
+<p class="awgrp">Programming</p>
 
 <details class="mrow">
   <summary class="mrow__lab">Proficient</summary>
@@ -122,7 +122,7 @@ classes: page--plain-links
   <div class="mrow__body mrow__body--plain">Codeforces 500+ &middot; UVA 200+ &middot; LightOJ 120+ &middot; CS Academy 50+ &nbsp;&mdash;&nbsp; <a href="https://github.com/omar-sharif03/Competitive-Programming">solutions on GitHub</a></div>
 </details>
 
-<p class="awgrp">Beyond Research</p>
+<p class="awgrp">Other</p>
 
 <details class="mrow">
   <summary class="mrow__lab">Organising</summary>
@@ -195,3 +195,10 @@ classes: page--plain-links
 </div>
   </div>
 </details>
+<!-- 
+<div class="sitestats">
+  <button class="sitestats__lab" type="button" id="statsToggle">Visitors</button>
+  <div class="sitestats__widget" id="statsBox">
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=VHPhXDlYSKXx3OvzRIA3ptsQM5R7Je_26HE7t0EejWI"></script>
+  </div>
+</div> -->

@@ -153,6 +153,15 @@
     for (var i = 0; i < rows.length; i++) rows[i].addEventListener("toggle", sync);
     sync();
   });
+  document.addEventListener("DOMContentLoaded", function () {
+    var btn = document.getElementById("statsToggle");
+    var box = document.getElementById("statsBox");
+    if (!btn || !box) return;
+    btn.addEventListener("click", function () {
+      var hidden = box.classList.toggle("is-collapsed");
+      btn.classList.toggle("is-collapsed", hidden);
+    });
+  });
 </script>
 
 {% include analytics.html %}
